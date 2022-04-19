@@ -235,7 +235,8 @@ Function That Prints An Integer Begining With 0 And u.
 ### ev_print_func.c
 Function That Returns The Amount Of Indetifiers.
 
-
+### man_3_printf
+This is our man page for all functions in this project.
 
 ### Authors
 John Damilare and Adedayo Jimoh
